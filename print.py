@@ -1,1 +1,2 @@
-print('i'm ujjrgo')
+print("i'm ujjrgo")
+print('hi')
